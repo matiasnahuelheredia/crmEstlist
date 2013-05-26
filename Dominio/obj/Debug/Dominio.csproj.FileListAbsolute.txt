@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Dominio\bin\Debug\Dominio.dll
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Dominio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Dominio\obj\Debug\Dominio.dll
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Dominio\obj\Debug\Dominio.pdb

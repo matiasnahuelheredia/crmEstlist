@@ -1,0 +1,201 @@
+Algunas plantillas desarrolladas para Microsoft Corporation por Impressa Systems, Santa Rosa, California. Import/Export Converters© 1988-1998 DataViz, Inc. en www.dataviz.com. Reservados todos los derechos. Compare Versions ©1993-2000 Advanced Software, Inc. Reservados todos los derechos. Portions of International CorrectSpell™ spelling correction system © 1993 by Lernout & Hauspie Speech Products N.V. All rights reserved. The American Heritage® Dictionary of the English Language, Third Edition Copyright © 1992 Houghton Mifflin Company. Electronic version licensed from Lernout & Hauspie Speech Products N.V. All rights reserved. Referencia de PDF, cuarta edición: formato PDF (Formato de Documento Portátil) de Adobe®, versión 1.5, © 1985-2003 Adobe Systems Incorporated. Reservados todos los derechos. 
+
+
+Microsoft® Office 2010 Proofing Tools
+© 2010 Microsoft Corporation.  All rights reserved. 
+
+
+Certain templates developed for Microsoft Corporation by Impressa Systems, Santa Rosa, California.
+Import/Export Converters© 1988-1998 DataViz, Inc. at www.dataviz.com. All Rights Reserved.
+© 2010 Microsoft Corporation.  All rights reserved. 
+
+
+Arabic
+Arabic Grammar Checker © 2009 developed by COLTEC Holding. All rights reserved.
+
+
+Basque
+Basque Speller Copyright @2009, HIZKIA Informatika (Baiona), IXA (Donostia), ELEKA (Usurbil) - Some libraries are under Inxight Software TM and Xerox copyright. All rights reserved
+Basque Hyphenator Copyright @2009, HIZKIA Informatika (Baiona), IXA (Donostia), All rights reserved.
+
+
+Brazilian
+Grammar Checker for Brazilian Portuguese, Version 14, Itautec  SA, 2009
+
+
+Bulgarian
+Bulgarian Speller and Hyphenator © 2009 BMG
+
+
+Catalan
+Lexical resources © 2002-2005, Thera, Centre de Llenguatges i Computació, S.L.; CLiC Centre de Llenguatges i Computació; TALP, Tecnologies i Aplicacions del Llenguatge i la Parla. All rights reserved. 
+
+
+Chinese (Simplified)
+© 2010 Microsoft Corporation.  All rights reserved. 
+New Experience Input Style and Classic Input Style, developed by Microsoft Corporation based on the IME jointly developed by Microsoft Corporation and Harbin Institute of Technology. © 2010 Microsoft Corporation and/or its suppliers.  All rights reserved. 
+ABC Input Style, developed on the basis of the Intelligent ABC Input Method that was developed under the lead of Professor Zhu Shoutao of Peking University.  © 2010 Microsoft Corporation and/or its suppliers.  All rights reserved.
+English-Chinese (Simplified) Dictionary, © 2000 Commercial Press    
+
+ 
+Chinese (Traditional)
+Microsoft Office IME 2010, © 2010 Microsoft Corporation.  All rights reserved. 
+English-Chinese (Traditional) Dictionary, © 2000 Commercial Press   
+
+
+Croatian
+-       InfoLingua Speller dll Copyright© 2009
+-       InfoLingua Hyphenator dll Copyright© 2009
+-       InfoLingua Thesaurus dll Copyright© 2009
+
+
+Czech
+Czech Grammar Checker © Institute of the Czech Language, Academy of Sciences of the Czech Republic 2005-2009, © MorphoLogic 2009. All rights reserved. Czech morphological analysis © Jan Hajic 1988-2009. All rights reserved.
+
+
+Danish
+Danish grammar checker: Copyright © Lingsoft, Inc. 2009. Constraint Grammar Parser: Copyright © Pasi Tapanainen 1993 and Lingsoft, Inc. 2009. Two-Level Compiler: Copyright © Xerox Corporation 1994. All rights reserved.
+
+
+Dutch
+Dutch Grammar Checker © 1997-2009. Polderland Language & Speech Technology bv. All rights reserved.
+
+
+English
+Portions of International CorrectSpell™ spelling correction system © 1993 by Lernout & Hauspie Speech Products N.V.  All rights reserved.
+Encarta ® World English Dictionary © ? 1998 - 2008 Microsoft Corporation. Developed for Microsoft by Bloomsbury Publishing Plc.
+The American Heritage® Dictionary of the English Language, Third Edition Copyright © 1992 Houghton Mifflin Company.  Electronic version licensed from Lernout & Hauspie Speech Products N.V.  All rights reserved.
+
+
+Estonian
+Estonian Speller, Hyphenator & Thesaurus © 2009 Filosoft Ltd
+
+
+Finnish
+Finnish speller: Copyright © Lingsoft, Inc. 2009. Two-Level Compiler: Copyright © Xerox Corporation 1994. All rights reserved.
+Finnish hyphenator: Copyright © Lingsoft, Inc. 2009. All rights reserved.
+Finnish inflecting thesaurus: Copyright © Lingsoft, Inc. 2009. Two-Level Compiler: Copyright © Xerox Corporation 1994. All rights reserved.
+Finnish grammar checker: Copyright © Lingsoft, Inc. 2009. Constraint Grammar Parser: Copyright © Pasi Tapanainen 1993 and Lingsoft, Inc. 2009. Two-Level Compiler: Copyright © Xerox Corporation 1994. All rights reserved.
+
+
+Galician
+Spell-checker for Galician © 2009 imaxin|software. All rights reserved.
+Hyphenator for Galician © 2009 imaxin|software. All rights reserved.
+
+
+Greek
+·         Hellenic Spelling Checker © 2009 Database Laboratory, University of Patras, Greece. Portions of the Hellenic Spelling Checker are derived from the Intralex Spelling Checker © INTRAKOM S.A. and Research Academic Computer Technology Institute. All rights reserved.
+·         Hellenic Hyphenator © 2009 Database Laboratory, University of Patras, Greece. Portions of the Hellenic Hyphenator are derived from the Intralex Hyphenator © INTRAKOM S.A. and Research Academic Computer Technology Institute. All rights reserved.
+·         Hellenic Word Thesaurus © 2009 Database Laboratory, University of Patras, Greece. Portions of the Hellenic Word Thesaurus are delivered from the Hellenic Word Thesaurus developed by Research Academic Computer Technology Institute. All rights reserved.
+
+
+Gujarati
+© 2010 Microsoft Corporation. All rights reserved.
+
+
+Hindi
+© 2010 Microsoft Corporation. All rights reserved.
+
+
+Hungarian
+Helyes-e? - Hungarian spelling checker © MorphoLogic, 1993-2009. All rights reserved.
+Helyesel - Hungarian hyphenation program © MorphoLogic, 1993-2009. All rights reserved.
+Helyette - Hungarian thesaurus © MorphoLogic, 1995-2009. All rights reserved. 
+Helyesebb - Hungarian Grammar Checker © MorphoLogic, 1997-2009. All rights reserved.
+
+
+Indonesinan
+EDJA - Indonesian Spelling Checker © 2006-2007 PT. Sigma Cipta Caraka & Candang Si. All rights reserved.
+
+
+Italian
+Grammar checker (with Cogito technology) © 1994-2009 Expert System Modena. All rights reserved.
+
+
+Japanese
+Kenkyusha’s New Collegiate English-Japanese Dictionary, 6th Edition © 1994-2000 Kenkyusha Ltd.
+Kenkyusha’s New Collegiate Japanese-English Dictionary, 4th Edition © 1995-2000 Kenkyusha Ltd.
+Microsoft IME 2010, © 2010 Microsoft Corporation.  All rights reserved. 
+
+
+Kannada
+© 2010 Microsoft Corporation. All rights reserved.
+
+
+Korean
+The NEWACE ® Dictionary, copyright ©. 1997 KUMSUNG TEXTBOOK CORPORATION.  All rights reserved.
+Microsoft IME 2010, © 2010 Microsoft Corporation.  All rights reserved. 
+
+
+Latvian
+Latvian Spellchecker © 1996-2009 Tilde, SIA. All rights reserved.
+Latvian Hyphenator © 1996-2009 Tilde, SIA. All rights reserved.
+
+
+Lithuanian
+Lithuanian Spellchecker © 1996-2009 Tilde, SIA. All rights reserved.
+Lithuanian Hyphenator © 1996-2009 Tilde, SIA. All rights reserved.
+
+
+Norwegian
+Norwegian (bokmål) grammar checker: Copyright © Lingsoft, Inc. 2009. Constraint Grammar Parser: Copyright © Pasi Tapanainen 1993 and Lingsoft, Inc. 2009. Two-Level Compiler: Copyright © Xerox Corporation 1994. All rights reserved.
+
+
+Polish
+Polish grammar copyright © 1992-2009 TiP Sp. z o. o., Katowice (Poland)
+
+
+Portuguese
+Portuguese Grammar Checker © 1997-2009 Priberam Informática, S.A. All rights reserved.
+
+
+Romanian
+Romanian spelling checker © MorphoLogic, 1995-2009. © Software ITC, 1995-2009.
+Romanian hyphenation program © MorphoLogic, 1995-2009. © Software ITC, 1995-2009.
+Romanian thesaurus © MorphoLogic, 1996-2009. © Software ITC, 1996-2009.
+
+
+Russian
+ORFO™ Grammar Checker © 2009 Ltd Informatic
+
+
+Serbian
+Speller © 1996-2009 Amebis, d. o. o., Kamnik, Dejan Jelovic
+Hyphenator © 1996-2009 Amebis, d. o. o., Kamnik
+
+
+Slovak
+Slovak Spelling Checker © 1995-2009 Forma, Ltd.
+Slovak Hyphenator © 1992-2009 Forma, Ltd.
+Slovak Thesaurus  © 1996-2009 Forma, Ltd.
+
+
+Slovenian
+Speller © 1992-2009 Amebis, d. o. o., Kamnik  
+Hyphenator © 1995-2009 Amebis, d. o. o., Kamnik
+Thesaurus © 1992-2009 Amebis, d. o. o., Kamnik
+
+
+Swedish
+Swedish grammar checker: Copyright © Lingsoft, Inc. 2009. Constraint Grammar Parser: Copyright © Pasi Tapanainen 1993 and Lingsoft, Inc. 2009. Two-Level Compiler: Copyright © Xerox Corporation 1994. All rights reserved.
+
+
+Tamil
+© 2010 Microsoft Corporation. All rights reserved.
+
+
+Turkish
+Copyright (c) 1998 - 2009 hk29 software services
+
+
+Ukrainian
+RUTA® - Ukrainian Spelling Checker © 1997-2009 Proling Ltd., All rights reserved
+RUTA® - Ukrainian Hyphenation © 1997-2009 Proling Ltd., All rights reserved
+RUTA® - Ukrainian Thesaurus © 1997-2009 Proling Ltd., All rights reserved
+
+
+Welsh
+Welsh Language Spelling Checker, Copyright © 2001-2009 Bangor University.
+Welsh Language Hyphenator, Copyright © 2001-2009 Bangor University.
+
+

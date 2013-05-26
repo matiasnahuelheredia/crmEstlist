@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Repositorio\bin\Release\Repositorio.dll
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Repositorio\bin\Release\Repositorio.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Repositorio\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Repositorio\obj\Release\Repositorio.dll
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Repositorio\obj\Release\Repositorio.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Repositorio\bin\Release\Dominio.dll
+C:\Users\Lenovo\Documents\Visual Studio 2008\Projects\peluqueria\Repositorio\bin\Release\Dominio.pdb
